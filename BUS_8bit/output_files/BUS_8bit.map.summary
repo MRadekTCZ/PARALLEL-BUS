@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Fri Mar 17 16:04:43 2023
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : BUS_8bit
+Top-level Entity Name : BUS_8bit
+Family : MAX 10
+Total logic elements : 886
+    Total combinational functions : 536
+    Dedicated logic registers : 636
+Total registers : 636
+Total pins : 37
+Total virtual pins : 0
+Total memory bits : 2,048
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

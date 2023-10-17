@@ -1,0 +1,165 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "LEDR[9]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[8]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[7]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[1]",
+					"strict" : false
+				},
+				{
+					"name" : "MAX_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "SW[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[7]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[6]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[7]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[6]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[5]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[4]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[3]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[2]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[1]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[0]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[15]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[13]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[11]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[10]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[14]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[12]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[9]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUTY[8]",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,18 @@
+Fitter Status : Successful - Fri Mar 17 16:05:05 2023
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : BUS_8bit
+Top-level Entity Name : BUS_8bit
+Family : MAX 10
+Device : 10M50DAF484C6GES
+Timing Models : Preliminary
+Total logic elements : 822 / 49,760 ( 2 % )
+    Total combinational functions : 539 / 49,760 ( 1 % )
+    Dedicated logic registers : 636 / 49,760 ( 1 % )
+Total registers : 636
+Total pins : 37 / 360 ( 10 % )
+Total virtual pins : 0
+Total memory bits : 2,048 / 1,677,312 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )
